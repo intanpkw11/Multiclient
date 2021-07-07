@@ -4,7 +4,7 @@ Multithreading TCP Socket Programming dengan bahasa C#.
 
 # Description
 
-Socket Programming merupakan suatu protokol yang mempunyai metode untuk membuat koneksi antar antara perangkat dalam jaringan. Hal ini, ditujukan agar satu program bisa berinteraksi dengan program lainnya dalam satu jaringan.
+Socket Programming merupakan suatu protokol yang mempunyai metode untuk membuat koneksi antar perangkat dalam jaringan. Hal ini, ditujukan agar satu program bisa berinteraksi dengan program lainnya dalam satu jaringan.
 
 Untuk menjalankan socket programming, minimal kita memerlukan dua program (Server & Client) :
 
