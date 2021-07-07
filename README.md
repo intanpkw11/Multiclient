@@ -1,7 +1,6 @@
 # Multiclient
  
-Multithreading TCP Socket Programming dengan bahasa C#.![Screenshot (1077)](https://user-images.githubusercontent.com/76908922/124808512-3bb28180-df89-11eb-9776-7b991e28da99.png)
-
+Multithreading TCP Socket Programming dengan bahasa C#.
 
 # Description
 
